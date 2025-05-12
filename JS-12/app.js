@@ -15,3 +15,4 @@ greet()
         console.log("promise was rejected with err :",err);
         
     });
+    
